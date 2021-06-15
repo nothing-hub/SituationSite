@@ -6,6 +6,7 @@ from colorama import Fore
 from pyfiglet import Figlet
 import requests as r
 os.system('cls')
+os.system('clear') 
 
 # neccesary
 print(Fore.YELLOW + '''if you face with Error maybe your Error is betwean those error in next line!!''')
